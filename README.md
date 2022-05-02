@@ -13,6 +13,7 @@ feat/ react, reactDom
 
 [o] UI -> styled Component
 
+![nomadCloneMovieWeb(REACT)](https://user-images.githubusercontent.com/85508996/166248501-faad7fa4-d4ee-4165-90ed-d24785f0ca55.PNG)
 
 
 ---2021/7 완료---
