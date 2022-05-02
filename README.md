@@ -7,7 +7,6 @@ feat/ react, reactDom
 
 
 [o] axios -> feching movie data
-
 [o] UI -> styled Component
 
 
