@@ -6,7 +6,7 @@ React 프레임워크로 영화 소개 웹사이트 만들기
 feat/ react, reactDom
 
 
-[o] axios -> feching movie data
+[o] axios -> feching movie data\n
 [o] UI -> styled Component
 
 
