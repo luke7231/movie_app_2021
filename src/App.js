@@ -27,8 +27,11 @@ class App extends React.Component {
     <div className="loader">
       <span className="loader__text">Loading...</span>
     </div>
-        ) : ( 
-        <div className="movies">
+      ) : (
+          <div className='m_container'>
+          <div className='titleCard'><h2>Try Your Amazing Movie</h2></div>
+          <div className="movies">
+            
             {movies.map(movie =>(
             <Movie 
               kye = {movie.id} 
@@ -41,6 +44,7 @@ class App extends React.Component {
               genres={movie.genres}
             />
           ))}
+        </div>
         </div>
         )}
     </section>

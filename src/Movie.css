@@ -7,7 +7,26 @@
     padding-top: 70px;
     width: 80%;
 }
+.m_container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.titleCard{
+    
+    width: 1000px;
+    height: 60px;
+    background-color: #ffffff;
+    display: flex;
 
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    
+    border-radius: 20px;
+    
+
+}
 .movies .movie {
     width: 45%;
     background-color: white;
